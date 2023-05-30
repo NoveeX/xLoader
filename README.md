@@ -3,6 +3,13 @@ xLoader is a CS:GO multi cheat loader (duh) that can allow the user to inject qu
 
 ![image](https://github.com/NoveeX/xLoader/assets/134323107/b4b2dd09-9d23-4ac1-b7be-ddd9e61589c2)
 
+# Features
+- LoadLibrary injection
+- Multiple cheats
+- Anti-injection BYPASS
+- Themes
+- Server status checking
+
 # FaQ
 Frequently asked questions
 ## • What cheats does xLoader has?
